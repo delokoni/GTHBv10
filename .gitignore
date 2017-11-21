@@ -3,6 +3,7 @@ package.xml
 
 #Managed packages can trigger the installation or uninstallation of applications, it is
 #recommended to manage this outside git
+#newLine
 
 installedPackages/*
 .idea/*
